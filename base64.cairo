@@ -23,9 +23,13 @@ func base64_decode{range_check_ptr}(input_array: felt*, input_len) -> (felt*, fe
     let (output_array: felt*) = alloc();
 
     let (end, _) = unsigned_div_rem(input_len + 3, 4);
-    %{
-        print('end: ', ids.end)
-    %}
+    if (end * 4 - input_len == 2){
+        assert input_array[input_len] = BASE64_EXTEND;
+        assert input_array[input_len + 1] = BASE64_EXTEND;
+    }
+    if (end * 4 - input_len == 1){
+        assert input_array[input_len] = BASE64_EXTEND;
+    }
     let base64_array = init_base64_array();
     return compute_decode(input_array, 0, end, output_array, 0, base64_array, input_len);
 }
@@ -152,9 +156,6 @@ func compute_encode{range_check_ptr} (input_array: felt*, counter, remainder, en
 func compute_decode{range_check_ptr} (input_array: felt*, counter, end, output_array: felt*, output_len, base64_array: felt*, input_len)  -> (felt*, felt) {
     alloc_locals;
     
-    // %{
-    //     print('counter: ', ids.counter)
-    // %}
     if (counter == end) {
         return (output_array, output_len);
     }
@@ -163,17 +164,11 @@ func compute_decode{range_check_ptr} (input_array: felt*, counter, end, output_a
     let t1 = input_array[counter * 4 + 1];
     let t2 = input_array[counter * 4 + 2];
     let t3 = input_array[counter * 4 + 3];
-    %{
-        print('compute_decode: ', ids.counter, chr(ids.t0), chr(ids.t1), chr(ids.t2), chr(ids.t3))
-    %}
-    let req0 = get_base64_index(input_array[counter * 4 + 0], BASE64_LEN - 1, base64_array);
-    let req1 = get_base64_index(input_array[counter * 4 + 1], BASE64_LEN - 1, base64_array);
-    let req2 = get_base64_index(input_array[counter * 4 + 2], BASE64_LEN - 1, base64_array);
-    let req3 = get_base64_index(input_array[counter * 4 + 3], BASE64_LEN - 1, base64_array);
 
-    %{
-        print('req: ', ids.req0, ids.req1, ids.req2, ids.req3)
-    %}
+    let req0 = get_base64_index(t0, BASE64_LEN - 1, base64_array);
+    let req1 = get_base64_index(t1, BASE64_LEN - 1, base64_array);
+    let req2 = get_base64_index(t2, BASE64_LEN - 1, base64_array);
+    let req3 = get_base64_index(t3, BASE64_LEN - 1, base64_array);
 
     tempvar m0 = req0 * 2 ** 18;
     tempvar m1 = req1 * 2 ** 12;
@@ -205,29 +200,23 @@ func compute_decode{range_check_ptr} (input_array: felt*, counter, end, output_a
     let (local d1, _) = unsigned_div_rem(m, (2 ** 8));
     tempvar n1 = d1 - n0 * 2 ** 8;
     if (increase_len != 1) {
-        %{
-            print('n1: ', ids.n1, chr(ids.n1))
-        %}
         assert output_array[counter * 3 + 1] = n1;
     }
 
     tempvar n2 = m - n0 * 2 ** 16 - n1 * 2 ** 8;
     if (increase_len == 3) {
-        %{
-            print('n2: ', ids.n2, chr(ids.n2))
-        %}
         assert output_array[counter * 3 + 2] = n2;
     }
     local new_output_len = output_len + increase_len;
-    %{
-        print("new output len: ", ids.new_output_len)
-        res = ""
-        for i in range(ids.new_output_len): 
-            index = memory[ids.output_array + i]
-            res += chr(index)
+    // %{
+    //     print("new output len: ", ids.new_output_len)
+    //     res = ""
+    //     for i in range(ids.new_output_len): 
+    //         index = memory[ids.output_array + i]
+    //         res += chr(index)
 
-        print('decode data: ', res)    
-    %}
+    //     print('decode data: ', res)    
+    // %}
     
     return compute_decode(input_array, counter + 1, end, output_array=output_array, output_len=new_output_len, base64_array=base64_array, input_len=input_len);
 }
