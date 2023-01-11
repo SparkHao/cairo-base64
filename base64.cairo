@@ -71,7 +71,6 @@ func compute_encode{range_check_ptr} (input_array: felt*, counter, remainder, en
             tempvar n0 = d0;
             let (local d1, _) = unsigned_div_rem(m2, (2 ** 6));
 
-            let (local d1, _) = unsigned_div_rem(m2, (2 ** 6));
             tempvar n1 = d1 - n0 * 2 ** 6;
             tempvar n2 = m - n0 * 2 ** 12 - n1 * 2 **6;
             assert output_array[counter * 4 + 0] = base64_array[n0];
