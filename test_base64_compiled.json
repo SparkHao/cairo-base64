@@ -26425,12 +26425,12 @@
                                                     "parent_location": [
                                                         {
                                                             "end_col": 159,
-                                                            "end_line": 220,
+                                                            "end_line": 211,
                                                             "input_file": {
                                                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                                                             },
                                                             "start_col": 12,
-                                                            "start_line": 220
+                                                            "start_line": 211
                                                         },
                                                         "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                                     ],
@@ -26536,12 +26536,12 @@
                     "parent_location": [
                         {
                             "end_col": 38,
-                            "end_line": 220,
+                            "end_line": 211,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 27,
-                            "start_line": 220
+                            "start_line": 211
                         },
                         "While expanding the reference 'input_array' in:"
                     ],
@@ -26620,12 +26620,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 51,
-                    "end_line": 220,
+                    "end_line": 211,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 40,
-                    "start_line": 220
+                    "start_line": 211
                 }
             },
             "652": {
@@ -26706,12 +26706,12 @@
                     "parent_location": [
                         {
                             "end_col": 56,
-                            "end_line": 220,
+                            "end_line": 211,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 53,
-                            "start_line": 220
+                            "start_line": 211
                         },
                         "While expanding the reference 'end' in:"
                     ],
@@ -26797,12 +26797,12 @@
                     "parent_location": [
                         {
                             "end_col": 83,
-                            "end_line": 220,
+                            "end_line": 211,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 71,
-                            "start_line": 220
+                            "start_line": 211
                         },
                         "While expanding the reference 'output_array' in:"
                     ],
@@ -26888,12 +26888,12 @@
                     "parent_location": [
                         {
                             "end_col": 110,
-                            "end_line": 220,
+                            "end_line": 211,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 96,
-                            "start_line": 220
+                            "start_line": 211
                         },
                         "While expanding the reference 'new_output_len' in:"
                     ],
@@ -26979,12 +26979,12 @@
                     "parent_location": [
                         {
                             "end_col": 137,
-                            "end_line": 220,
+                            "end_line": 211,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 125,
-                            "start_line": 220
+                            "start_line": 211
                         },
                         "While expanding the reference 'base64_array' in:"
                     ],
@@ -27070,12 +27070,12 @@
                     "parent_location": [
                         {
                             "end_col": 158,
-                            "end_line": 220,
+                            "end_line": 211,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 149,
-                            "start_line": 220
+                            "start_line": 211
                         },
                         "While expanding the reference 'input_len' in:"
                     ],
@@ -27154,12 +27154,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 159,
-                    "end_line": 220,
+                    "end_line": 211,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 12,
-                    "start_line": 220
+                    "start_line": 211
                 }
             },
             "659": {
@@ -27233,12 +27233,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 160,
-                    "end_line": 220,
+                    "end_line": 211,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 220
+                    "start_line": 211
                 }
             },
             "660": {
@@ -27256,12 +27256,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 18,
-                    "end_line": 225,
+                    "end_line": 216,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 225
+                    "start_line": 216
                 }
             },
             "662": {
@@ -27279,12 +27279,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 40,
-                    "end_line": 226,
+                    "end_line": 217,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 33,
-                    "start_line": 226
+                    "start_line": 217
                 }
             },
             "664": {
@@ -27304,12 +27304,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 227,
+                    "end_line": 218,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 227
+                    "start_line": 218
                 }
             },
             "666": {
@@ -27330,12 +27330,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 227,
+                    "end_line": 218,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 227
+                    "start_line": 218
                 }
             },
             "667": {
@@ -27356,12 +27356,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 228,
+                    "end_line": 219,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 228
+                    "start_line": 219
                 }
             },
             "669": {
@@ -27383,12 +27383,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 228,
+                    "end_line": 219,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 228
+                    "start_line": 219
                 }
             },
             "670": {
@@ -27410,12 +27410,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 229,
+                    "end_line": 220,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 229
+                    "start_line": 220
                 }
             },
             "672": {
@@ -27438,12 +27438,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 229,
+                    "end_line": 220,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 229
+                    "start_line": 220
                 }
             },
             "673": {
@@ -27466,12 +27466,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 230,
+                    "end_line": 221,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 230
+                    "start_line": 221
                 }
             },
             "675": {
@@ -27495,12 +27495,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 230,
+                    "end_line": 221,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 230
+                    "start_line": 221
                 }
             },
             "676": {
@@ -27524,12 +27524,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 231,
+                    "end_line": 222,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 231
+                    "start_line": 222
                 }
             },
             "678": {
@@ -27554,12 +27554,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 231,
+                    "end_line": 222,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 231
+                    "start_line": 222
                 }
             },
             "679": {
@@ -27584,12 +27584,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 232,
+                    "end_line": 223,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 232
+                    "start_line": 223
                 }
             },
             "681": {
@@ -27615,12 +27615,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 232,
+                    "end_line": 223,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 232
+                    "start_line": 223
                 }
             },
             "682": {
@@ -27646,12 +27646,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 233,
+                    "end_line": 224,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 233
+                    "start_line": 224
                 }
             },
             "684": {
@@ -27678,12 +27678,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 233,
+                    "end_line": 224,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 233
+                    "start_line": 224
                 }
             },
             "685": {
@@ -27710,12 +27710,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 234,
+                    "end_line": 225,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 234
+                    "start_line": 225
                 }
             },
             "687": {
@@ -27743,12 +27743,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 234,
+                    "end_line": 225,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 234
+                    "start_line": 225
                 }
             },
             "688": {
@@ -27776,12 +27776,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 235,
+                    "end_line": 226,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 235
+                    "start_line": 226
                 }
             },
             "690": {
@@ -27810,12 +27810,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 235,
+                    "end_line": 226,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 235
+                    "start_line": 226
                 }
             },
             "691": {
@@ -27844,12 +27844,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 33,
-                    "end_line": 236,
+                    "end_line": 227,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 30,
-                    "start_line": 236
+                    "start_line": 227
                 }
             },
             "693": {
@@ -27879,12 +27879,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 236,
+                    "end_line": 227,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 236
+                    "start_line": 227
                 }
             },
             "694": {
@@ -27914,12 +27914,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 237,
+                    "end_line": 228,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 237
+                    "start_line": 228
                 }
             },
             "696": {
@@ -27950,12 +27950,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 237,
+                    "end_line": 228,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 237
+                    "start_line": 228
                 }
             },
             "697": {
@@ -27986,12 +27986,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 238,
+                    "end_line": 229,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 238
+                    "start_line": 229
                 }
             },
             "699": {
@@ -28023,12 +28023,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 238,
+                    "end_line": 229,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 238
+                    "start_line": 229
                 }
             },
             "700": {
@@ -28060,12 +28060,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 239,
+                    "end_line": 230,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 239
+                    "start_line": 230
                 }
             },
             "702": {
@@ -28098,12 +28098,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 239,
+                    "end_line": 230,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 239
+                    "start_line": 230
                 }
             },
             "703": {
@@ -28136,12 +28136,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 240,
+                    "end_line": 231,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 240
+                    "start_line": 231
                 }
             },
             "705": {
@@ -28175,12 +28175,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 240,
+                    "end_line": 231,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 240
+                    "start_line": 231
                 }
             },
             "706": {
@@ -28214,12 +28214,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 241,
+                    "end_line": 232,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 241
+                    "start_line": 232
                 }
             },
             "708": {
@@ -28254,12 +28254,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 241,
+                    "end_line": 232,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 241
+                    "start_line": 232
                 }
             },
             "709": {
@@ -28294,12 +28294,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 242,
+                    "end_line": 233,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 242
+                    "start_line": 233
                 }
             },
             "711": {
@@ -28335,12 +28335,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 242,
+                    "end_line": 233,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 242
+                    "start_line": 233
                 }
             },
             "712": {
@@ -28376,12 +28376,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 243,
+                    "end_line": 234,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 243
+                    "start_line": 234
                 }
             },
             "714": {
@@ -28418,12 +28418,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 243,
+                    "end_line": 234,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 243
+                    "start_line": 234
                 }
             },
             "715": {
@@ -28460,12 +28460,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 244,
+                    "end_line": 235,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 244
+                    "start_line": 235
                 }
             },
             "717": {
@@ -28503,12 +28503,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 244,
+                    "end_line": 235,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 244
+                    "start_line": 235
                 }
             },
             "718": {
@@ -28546,12 +28546,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 245,
+                    "end_line": 236,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 245
+                    "start_line": 236
                 }
             },
             "720": {
@@ -28590,12 +28590,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 245,
+                    "end_line": 236,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 245
+                    "start_line": 236
                 }
             },
             "721": {
@@ -28634,12 +28634,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 246,
+                    "end_line": 237,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 246
+                    "start_line": 237
                 }
             },
             "723": {
@@ -28679,12 +28679,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 246,
+                    "end_line": 237,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 246
+                    "start_line": 237
                 }
             },
             "724": {
@@ -28724,12 +28724,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 247,
+                    "end_line": 238,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 247
+                    "start_line": 238
                 }
             },
             "726": {
@@ -28770,12 +28770,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 247,
+                    "end_line": 238,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 247
+                    "start_line": 238
                 }
             },
             "727": {
@@ -28816,12 +28816,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 248,
+                    "end_line": 239,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 248
+                    "start_line": 239
                 }
             },
             "729": {
@@ -28863,12 +28863,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 248,
+                    "end_line": 239,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 248
+                    "start_line": 239
                 }
             },
             "730": {
@@ -28910,12 +28910,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 249,
+                    "end_line": 240,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 249
+                    "start_line": 240
                 }
             },
             "732": {
@@ -28958,12 +28958,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 249,
+                    "end_line": 240,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 249
+                    "start_line": 240
                 }
             },
             "733": {
@@ -29006,12 +29006,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 250,
+                    "end_line": 241,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 250
+                    "start_line": 241
                 }
             },
             "735": {
@@ -29055,12 +29055,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 250,
+                    "end_line": 241,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 250
+                    "start_line": 241
                 }
             },
             "736": {
@@ -29104,12 +29104,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 251,
+                    "end_line": 242,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 251
+                    "start_line": 242
                 }
             },
             "738": {
@@ -29154,12 +29154,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 251,
+                    "end_line": 242,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 251
+                    "start_line": 242
                 }
             },
             "739": {
@@ -29204,12 +29204,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 252,
+                    "end_line": 243,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 252
+                    "start_line": 243
                 }
             },
             "741": {
@@ -29255,12 +29255,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 252,
+                    "end_line": 243,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 252
+                    "start_line": 243
                 }
             },
             "742": {
@@ -29306,12 +29306,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 253,
+                    "end_line": 244,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 253
+                    "start_line": 244
                 }
             },
             "744": {
@@ -29358,12 +29358,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 253,
+                    "end_line": 244,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 253
+                    "start_line": 244
                 }
             },
             "745": {
@@ -29410,12 +29410,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 254,
+                    "end_line": 245,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 254
+                    "start_line": 245
                 }
             },
             "747": {
@@ -29463,12 +29463,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 254,
+                    "end_line": 245,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 254
+                    "start_line": 245
                 }
             },
             "748": {
@@ -29516,12 +29516,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 255,
+                    "end_line": 246,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 255
+                    "start_line": 246
                 }
             },
             "750": {
@@ -29570,12 +29570,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 255,
+                    "end_line": 246,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 255
+                    "start_line": 246
                 }
             },
             "751": {
@@ -29624,12 +29624,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 256,
+                    "end_line": 247,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 256
+                    "start_line": 247
                 }
             },
             "753": {
@@ -29679,12 +29679,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 256,
+                    "end_line": 247,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 256
+                    "start_line": 247
                 }
             },
             "754": {
@@ -29734,12 +29734,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 257,
+                    "end_line": 248,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 257
+                    "start_line": 248
                 }
             },
             "756": {
@@ -29790,12 +29790,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 257,
+                    "end_line": 248,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 257
+                    "start_line": 248
                 }
             },
             "757": {
@@ -29846,12 +29846,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 258,
+                    "end_line": 249,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 258
+                    "start_line": 249
                 }
             },
             "759": {
@@ -29903,12 +29903,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 258,
+                    "end_line": 249,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 258
+                    "start_line": 249
                 }
             },
             "760": {
@@ -29960,12 +29960,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 259,
+                    "end_line": 250,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 259
+                    "start_line": 250
                 }
             },
             "762": {
@@ -30018,12 +30018,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 259,
+                    "end_line": 250,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 259
+                    "start_line": 250
                 }
             },
             "763": {
@@ -30076,12 +30076,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 260,
+                    "end_line": 251,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 260
+                    "start_line": 251
                 }
             },
             "765": {
@@ -30135,12 +30135,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 260,
+                    "end_line": 251,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 260
+                    "start_line": 251
                 }
             },
             "766": {
@@ -30194,12 +30194,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 261,
+                    "end_line": 252,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 261
+                    "start_line": 252
                 }
             },
             "768": {
@@ -30254,12 +30254,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 261,
+                    "end_line": 252,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 261
+                    "start_line": 252
                 }
             },
             "769": {
@@ -30314,12 +30314,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 262,
+                    "end_line": 253,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 262
+                    "start_line": 253
                 }
             },
             "771": {
@@ -30375,12 +30375,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 262,
+                    "end_line": 253,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 262
+                    "start_line": 253
                 }
             },
             "772": {
@@ -30436,12 +30436,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 263,
+                    "end_line": 254,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 263
+                    "start_line": 254
                 }
             },
             "774": {
@@ -30498,12 +30498,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 263,
+                    "end_line": 254,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 263
+                    "start_line": 254
                 }
             },
             "775": {
@@ -30560,12 +30560,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 264,
+                    "end_line": 255,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 264
+                    "start_line": 255
                 }
             },
             "777": {
@@ -30623,12 +30623,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 264,
+                    "end_line": 255,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 264
+                    "start_line": 255
                 }
             },
             "778": {
@@ -30686,12 +30686,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 265,
+                    "end_line": 256,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 265
+                    "start_line": 256
                 }
             },
             "780": {
@@ -30750,12 +30750,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 265,
+                    "end_line": 256,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 265
+                    "start_line": 256
                 }
             },
             "781": {
@@ -30814,12 +30814,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 266,
+                    "end_line": 257,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 266
+                    "start_line": 257
                 }
             },
             "783": {
@@ -30879,12 +30879,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 266,
+                    "end_line": 257,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 266
+                    "start_line": 257
                 }
             },
             "784": {
@@ -30944,12 +30944,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 267,
+                    "end_line": 258,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 267
+                    "start_line": 258
                 }
             },
             "786": {
@@ -31010,12 +31010,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 267,
+                    "end_line": 258,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 267
+                    "start_line": 258
                 }
             },
             "787": {
@@ -31076,12 +31076,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 268,
+                    "end_line": 259,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 268
+                    "start_line": 259
                 }
             },
             "789": {
@@ -31143,12 +31143,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 268,
+                    "end_line": 259,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 268
+                    "start_line": 259
                 }
             },
             "790": {
@@ -31210,12 +31210,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 269,
+                    "end_line": 260,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 269
+                    "start_line": 260
                 }
             },
             "792": {
@@ -31278,12 +31278,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 269,
+                    "end_line": 260,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 269
+                    "start_line": 260
                 }
             },
             "793": {
@@ -31346,12 +31346,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 270,
+                    "end_line": 261,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 270
+                    "start_line": 261
                 }
             },
             "795": {
@@ -31415,12 +31415,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 270,
+                    "end_line": 261,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 270
+                    "start_line": 261
                 }
             },
             "796": {
@@ -31484,12 +31484,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 271,
+                    "end_line": 262,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 271
+                    "start_line": 262
                 }
             },
             "798": {
@@ -31554,12 +31554,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 271,
+                    "end_line": 262,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 271
+                    "start_line": 262
                 }
             },
             "799": {
@@ -31624,12 +31624,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 272,
+                    "end_line": 263,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 272
+                    "start_line": 263
                 }
             },
             "801": {
@@ -31695,12 +31695,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 272,
+                    "end_line": 263,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 272
+                    "start_line": 263
                 }
             },
             "802": {
@@ -31766,12 +31766,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 273,
+                    "end_line": 264,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 273
+                    "start_line": 264
                 }
             },
             "804": {
@@ -31838,12 +31838,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 273,
+                    "end_line": 264,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 273
+                    "start_line": 264
                 }
             },
             "805": {
@@ -31910,12 +31910,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 274,
+                    "end_line": 265,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 274
+                    "start_line": 265
                 }
             },
             "807": {
@@ -31983,12 +31983,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 274,
+                    "end_line": 265,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 274
+                    "start_line": 265
                 }
             },
             "808": {
@@ -32056,12 +32056,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 275,
+                    "end_line": 266,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 275
+                    "start_line": 266
                 }
             },
             "810": {
@@ -32130,12 +32130,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 275,
+                    "end_line": 266,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 275
+                    "start_line": 266
                 }
             },
             "811": {
@@ -32204,12 +32204,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 276,
+                    "end_line": 267,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 276
+                    "start_line": 267
                 }
             },
             "813": {
@@ -32279,12 +32279,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 276,
+                    "end_line": 267,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 276
+                    "start_line": 267
                 }
             },
             "814": {
@@ -32354,12 +32354,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 277,
+                    "end_line": 268,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 277
+                    "start_line": 268
                 }
             },
             "816": {
@@ -32430,12 +32430,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 277,
+                    "end_line": 268,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 277
+                    "start_line": 268
                 }
             },
             "817": {
@@ -32506,12 +32506,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 278,
+                    "end_line": 269,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 278
+                    "start_line": 269
                 }
             },
             "819": {
@@ -32583,12 +32583,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 278,
+                    "end_line": 269,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 278
+                    "start_line": 269
                 }
             },
             "820": {
@@ -32660,12 +32660,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 279,
+                    "end_line": 270,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 279
+                    "start_line": 270
                 }
             },
             "822": {
@@ -32738,12 +32738,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 279,
+                    "end_line": 270,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 279
+                    "start_line": 270
                 }
             },
             "823": {
@@ -32816,12 +32816,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 280,
+                    "end_line": 271,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 280
+                    "start_line": 271
                 }
             },
             "825": {
@@ -32895,12 +32895,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 280,
+                    "end_line": 271,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 280
+                    "start_line": 271
                 }
             },
             "826": {
@@ -32974,12 +32974,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 281,
+                    "end_line": 272,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 281
+                    "start_line": 272
                 }
             },
             "828": {
@@ -33054,12 +33054,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 281,
+                    "end_line": 272,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 281
+                    "start_line": 272
                 }
             },
             "829": {
@@ -33134,12 +33134,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 282,
+                    "end_line": 273,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 282
+                    "start_line": 273
                 }
             },
             "831": {
@@ -33215,12 +33215,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 282,
+                    "end_line": 273,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 282
+                    "start_line": 273
                 }
             },
             "832": {
@@ -33296,12 +33296,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 283,
+                    "end_line": 274,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 283
+                    "start_line": 274
                 }
             },
             "834": {
@@ -33378,12 +33378,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 283,
+                    "end_line": 274,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 283
+                    "start_line": 274
                 }
             },
             "835": {
@@ -33460,12 +33460,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 284,
+                    "end_line": 275,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 284
+                    "start_line": 275
                 }
             },
             "837": {
@@ -33543,12 +33543,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 284,
+                    "end_line": 275,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 284
+                    "start_line": 275
                 }
             },
             "838": {
@@ -33626,12 +33626,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 285,
+                    "end_line": 276,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 285
+                    "start_line": 276
                 }
             },
             "840": {
@@ -33710,12 +33710,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 285,
+                    "end_line": 276,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 285
+                    "start_line": 276
                 }
             },
             "841": {
@@ -33794,12 +33794,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 286,
+                    "end_line": 277,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 286
+                    "start_line": 277
                 }
             },
             "843": {
@@ -33879,12 +33879,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 286,
+                    "end_line": 277,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 286
+                    "start_line": 277
                 }
             },
             "844": {
@@ -33964,12 +33964,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 287,
+                    "end_line": 278,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 287
+                    "start_line": 278
                 }
             },
             "846": {
@@ -34050,12 +34050,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 287,
+                    "end_line": 278,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 287
+                    "start_line": 278
                 }
             },
             "847": {
@@ -34136,12 +34136,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 288,
+                    "end_line": 279,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 288
+                    "start_line": 279
                 }
             },
             "849": {
@@ -34223,12 +34223,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 288,
+                    "end_line": 279,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 288
+                    "start_line": 279
                 }
             },
             "850": {
@@ -34310,12 +34310,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 289,
+                    "end_line": 280,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 289
+                    "start_line": 280
                 }
             },
             "852": {
@@ -34398,12 +34398,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 289,
+                    "end_line": 280,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 289
+                    "start_line": 280
                 }
             },
             "853": {
@@ -34486,12 +34486,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 34,
-                    "end_line": 290,
+                    "end_line": 281,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 31,
-                    "start_line": 290
+                    "start_line": 281
                 }
             },
             "855": {
@@ -34575,12 +34575,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 290,
+                    "end_line": 281,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 290
+                    "start_line": 281
                 }
             },
             "856": {
@@ -34664,24 +34664,24 @@
                 "hints": [],
                 "inst": {
                     "end_col": 29,
-                    "end_line": 226,
+                    "end_line": 217,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "parent_location": [
                         {
                             "end_col": 24,
-                            "end_line": 292,
+                            "end_line": 283,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 12,
-                            "start_line": 292
+                            "start_line": 283
                         },
                         "While expanding the reference 'base64_array' in:"
                     ],
                     "start_col": 10,
-                    "start_line": 226
+                    "start_line": 217
                 }
             },
             "857": {
@@ -34765,12 +34765,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 25,
-                    "end_line": 292,
+                    "end_line": 283,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 292
+                    "start_line": 283
                 }
             },
             "858": {
@@ -34792,12 +34792,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 18,
-                    "end_line": 296,
+                    "end_line": 287,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 296
+                    "start_line": 287
                 }
             },
             "860": {
@@ -34819,12 +34819,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 7,
-                    "end_line": 297,
+                    "end_line": 288,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 297
+                    "start_line": 288
                 }
             },
             "862": {
@@ -34846,24 +34846,24 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 295,
+                    "end_line": 286,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "parent_location": [
                         {
                             "end_col": 21,
-                            "end_line": 298,
+                            "end_line": 289,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 16,
-                            "start_line": 298
+                            "start_line": 289
                         },
                         "While expanding the reference 'start' in:"
                     ],
                     "start_col": 30,
-                    "start_line": 295
+                    "start_line": 286
                 }
             },
             "863": {
@@ -34885,12 +34885,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 22,
-                    "end_line": 298,
+                    "end_line": 289,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 298
+                    "start_line": 289
                 }
             },
             "864": {
@@ -34912,12 +34912,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 28,
-                    "end_line": 300,
+                    "end_line": 291,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 300
+                    "start_line": 291
                 }
             },
             "865": {
@@ -34940,12 +34940,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 28,
-                    "end_line": 300,
+                    "end_line": 291,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 300
+                    "start_line": 291
                 }
             },
             "866": {
@@ -34969,12 +34969,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 37,
-                    "end_line": 300,
+                    "end_line": 291,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 300
+                    "start_line": 291
                 }
             },
             "867": {
@@ -34999,12 +34999,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 7,
-                    "end_line": 300,
+                    "end_line": 291,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 5,
-                    "start_line": 300
+                    "start_line": 291
                 }
             },
             "869": {
@@ -35029,24 +35029,24 @@
                 "hints": [],
                 "inst": {
                     "end_col": 35,
-                    "end_line": 295,
+                    "end_line": 286,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "parent_location": [
                         {
                             "end_col": 21,
-                            "end_line": 301,
+                            "end_line": 292,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 16,
-                            "start_line": 301
+                            "start_line": 292
                         },
                         "While expanding the reference 'start' in:"
                     ],
                     "start_col": 30,
-                    "start_line": 295
+                    "start_line": 286
                 }
             },
             "870": {
@@ -35071,12 +35071,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 22,
-                    "end_line": 301,
+                    "end_line": 292,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 301
+                    "start_line": 292
                 }
             },
             "871": {
@@ -35101,24 +35101,24 @@
                 "hints": [],
                 "inst": {
                     "end_col": 28,
-                    "end_line": 295,
+                    "end_line": 286,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "parent_location": [
                         {
                             "end_col": 38,
-                            "end_line": 303,
+                            "end_line": 294,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 33,
-                            "start_line": 303
+                            "start_line": 294
                         },
                         "While expanding the reference 'value' in:"
                     ],
                     "start_col": 23,
-                    "start_line": 295
+                    "start_line": 286
                 }
             },
             "872": {
@@ -35143,12 +35143,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 49,
-                    "end_line": 303,
+                    "end_line": 294,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 40,
-                    "start_line": 303
+                    "start_line": 294
                 }
             },
             "874": {
@@ -35173,24 +35173,24 @@
                 "hints": [],
                 "inst": {
                     "end_col": 56,
-                    "end_line": 295,
+                    "end_line": 286,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "parent_location": [
                         {
                             "end_col": 63,
-                            "end_line": 303,
+                            "end_line": 294,
                             "input_file": {
                                 "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                             },
                             "start_col": 51,
-                            "start_line": 303
+                            "start_line": 294
                         },
                         "While expanding the reference 'base64_array' in:"
                     ],
                     "start_col": 37,
-                    "start_line": 295
+                    "start_line": 286
                 }
             },
             "875": {
@@ -35215,12 +35215,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 64,
-                    "end_line": 303,
+                    "end_line": 294,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 16,
-                    "start_line": 303
+                    "start_line": 294
                 }
             },
             "877": {
@@ -35245,12 +35245,12 @@
                 "hints": [],
                 "inst": {
                     "end_col": 65,
-                    "end_line": 303,
+                    "end_line": 294,
                     "input_file": {
                         "filename": "/home/free/code/cairo/vc-project/cairo_base64/base64.cairo"
                     },
                     "start_col": 9,
-                    "start_line": 303
+                    "start_line": 294
                 }
             },
             "878": {

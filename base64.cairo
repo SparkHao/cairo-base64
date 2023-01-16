@@ -207,15 +207,6 @@ func compute_decode{range_check_ptr} (input_array: felt*, counter, end, output_a
         assert output_array[counter * 3 + 2] = n2;
     }
     local new_output_len = output_len + increase_len;
-    // %{
-    //     print("new output len: ", ids.new_output_len)
-    //     res = ""
-    //     for i in range(ids.new_output_len): 
-    //         index = memory[ids.output_array + i]
-    //         res += chr(index)
-
-    //     print('decode data: ', res)    
-    // %}
     
     return compute_decode(input_array, counter + 1, end, output_array=output_array, output_len=new_output_len, base64_array=base64_array, input_len=input_len);
 }
